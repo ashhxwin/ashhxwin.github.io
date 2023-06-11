@@ -1,4 +1,4 @@
-# ashhxwin.github.io
+# start-up-of-the-year
 Landing Page for a Startup 
 Screenshots
 
